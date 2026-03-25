@@ -1,4 +1,4 @@
-# CMD(Command Prompt) with shell script
+# Some NT commands to shell format
 
 ```console
 wget https://raw.githubusercontent.com/mn7god/cmd/refs/heads/main/cmd.sh ; source cmd.sh
@@ -8,7 +8,6 @@ wget https://raw.githubusercontent.com/mn7god/cmd/refs/heads/main/cmd.sh ; sourc
 
 This programm only ends if you close the terminal window.
 
-# CMDShell commands
 
 	/? - Show the help of specific command
 	quit(custom command) - Exit from console
