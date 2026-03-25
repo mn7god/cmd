@@ -1,4 +1,4 @@
-# Some NT commands to shell format
+# Some shell commands to nt format
 
 ```console
 wget https://raw.githubusercontent.com/mn7god/cmd/refs/heads/main/cmd.sh ; source cmd.sh
